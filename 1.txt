@@ -1,0 +1,4 @@
+Hello .....
+This is file just for testing  
+Basic commands of linux 
+Learning myself is best
